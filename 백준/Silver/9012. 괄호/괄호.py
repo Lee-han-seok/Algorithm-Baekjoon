@@ -7,8 +7,7 @@ for i in range(n) :
     vpss.append(list(input()))
 
 for vps in vpss :
-    tmp = deque([])
-    vps = deque(vps)
+    tmp = []
     for i in vps :
         if i == '(':
             tmp.append(i)
