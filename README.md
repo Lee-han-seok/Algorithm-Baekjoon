@@ -6,5 +6,5 @@
 
 ### 2. 기타
   - 문제 풀이 사이트 : 백준, 프로그래머스
-  - 참고 서적 : 이것이 코딩 테스트다 with 파이썬 - 나동빈 작가님
+  - 참고 서적 : 이것이 코딩 테스트다 with 파이싼
   - 언어 : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
